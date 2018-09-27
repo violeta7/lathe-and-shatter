@@ -1,0 +1,44 @@
+Opening outputs/generated_lathe.smesh.
+Delaunizing vertices...
+Delaunay seconds:  1.0356
+Creating surface mesh ...
+Surface mesh seconds:  0.142819
+Recovering boundaries...
+Boundary recovery seconds:  0.653252
+Removing exterior tetrahedra ...
+Exterior tets removal seconds:  0.232412
+Recovering Delaunayness...
+Delaunay recovery seconds:  0.221349
+Optimizing mesh...
+Optimization seconds:  12.2511
+
+Writing outputs/generated_lathe.1.node.
+Writing outputs/generated_lathe.1.ele.
+Writing outputs/generated_lathe.1.face.
+Writing outputs/generated_lathe.1.edge.
+
+Output seconds:  0.444889
+Total running seconds:  14.9854
+  Checking consistency of mesh...
+  In my studied opinion, the mesh appears to be consistent.
+  Checking consistency of the mesh boundary...
+  Mesh boundaries connected correctly.
+  Checking tet->seg connections...
+  Checking seg->tet connections...
+  Checking seg->seg connections...
+  Segments are connected properly.
+
+Statistics:
+
+  Input points: 86400
+  Input facets: 172800
+  Input holes: 0
+  Input regions: 0
+
+  Mesh points: 95107
+  Mesh tetrahedra: 300575
+  Mesh faces: 687550
+  Mesh faces on facets: 172800
+  Mesh edges on segments: 259200
+  Steiner points inside domain: 8707
+
