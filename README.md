@@ -3,7 +3,7 @@ lathe-and-shatter
 
 Copyright 2018 Artificial Intelligence Research Institute(AIRI), Korea
 
-This program needs tetgen (http://wias-berlin.de/software/tetgen/) and 
+This program needs an open source program, tetgen (http://wias-berlin.de/software/tetgen/) to run.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
